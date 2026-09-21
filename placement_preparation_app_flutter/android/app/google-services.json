@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593298981209",
+    "project_id": "placement-preparation-ap-bdd01",
+    "storage_bucket": "placement-preparation-ap-bdd01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593298981209:android:8e01fd34da302e7ca08c48",
+        "android_client_info": {
+          "package_name": "com.example.placement_preparation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRJZQxJ4ei5jd_VE5nLZYZQKBQN71fehU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
